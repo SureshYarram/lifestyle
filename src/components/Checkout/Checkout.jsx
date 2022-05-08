@@ -130,8 +130,10 @@ export  function Checkout() {
 							By clicking on Proceed to Payment, you agree to our Terms and
 							Conditions
 						</p>
-						<button id="yellow" onClick={()=>
+						<button id="yellow" onClick={()=>{
+						  alert("payment is Successful,")
                            navigate("/")
+						}
                         }>
 							Pay Now
 						</button>
