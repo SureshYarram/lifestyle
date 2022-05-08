@@ -199,16 +199,19 @@ body{
 
 .details_overview{
     margin: 2%;
+    margin-top: 100px;
 }
 
 .overview , .overview_list{
      font-size: 14px;
      text-shadow: 4px 4px 4px #aaa;
+     margin-top: 10px;
 }
 
 .overview_list{
  border-bottom: 1px solid rgb(232, 230, 230);
  height: 400px;
+ margin-top: 5px;
 }
 
 .social_icons{

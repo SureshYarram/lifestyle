@@ -170,14 +170,14 @@ export const Footer = () => {
           <div>
             <img height="50px" width="150px" src={logo} alt="..." />
           </div>
-          <div className="footer-p mt-0 text-justify column">
+          {/* <div className="footer-p mt-0 text-justify column">
             <p className="justify-bet ">
               © 2022 RNA Intellectual Property Limited.
             </p>
             <p className=" mt-0 justify-bet">
               Terms & Conditions - Privacy Policy
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
